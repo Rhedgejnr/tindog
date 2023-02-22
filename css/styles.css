@@ -112,6 +112,10 @@ font-weight: 700;
   
 } 
 
+.nav-link {
+    color: white;
+}
+
 #press {
     padding: 7% 15%;
     padding-top: 0;
